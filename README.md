@@ -1,4 +1,5 @@
-# Huffman-Coding
+# Exp 11 Huffman-Coding
+### Date: 25-04-2024
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
